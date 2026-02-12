@@ -20,8 +20,8 @@ house-price-prediction/
 │
 ├── train.csv                          # Original training dataset
 ├── test.csv                           # Original test dataset
-├── X_train.csv                        # Processed training data (not included)
-├── X_test.csv                         # Processed test data (not included)
+├── X_train.csv                        # Processed training data 
+├── X_test.csv                         # Processed test data 
 └── submission.csv                     # Final predictions
 ```
 
