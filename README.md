@@ -13,16 +13,16 @@ This project demonstrates a complete end-to-end Machine Learning workflow, from 
 ```
 house-price-prediction/
 │
-├── eda.ipynb                          # Exploratory Data Analysis
-├── feature engineering.ipynb          # Data preprocessing and feature engineering
-├── feature selection.ipynb            # Feature selection using Lasso
-├── house prices prediction.ipynb      # Model training and predictions
+├── eda.ipynb                          #Exploratory Data Analysis
+├── feature engineering.ipynb          #Data preprocessing and feature engineering
+├── feature selection.ipynb            #Feature selection using Lasso
+├── house prices prediction.ipynb      #Model training and predictions
 │
-├── train.csv                          # Original training dataset
-├── test.csv                           # Original test dataset
-├── X_train.csv                        # Processed training data 
-├── X_test.csv                         # Processed test data 
-└── submission.csv                     # Final predictions
+├── train.csv                          #Original training dataset
+├── test.csv                           #Original test dataset
+├── X_train.csv                        #Processed training data 
+├── X_test.csv                         #Processed test data 
+└── submission.csv                     #Final predictions
 ```
 
 ## Workflow
