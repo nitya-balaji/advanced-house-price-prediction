@@ -165,13 +165,13 @@ Run the notebooks in sequential order:
 jupyter notebook eda.ipynb
 
 #2. Feature Engineering
-jupyter notebook feature_engineering.ipynb
+jupyter notebook feature engineering.ipynb
 
 #3. Feature Selection
-jupyter notebook feature_selection.ipynb
+jupyter notebook feature selection.ipynb
 
 #4. Model Training and Prediction
-jupyter notebook house_prices_prediction.ipynb
+jupyter notebook house prices prediction.ipynb
 ```
 After running all notebooks, `submission.csv` will contain the final predictions ready for submission.
 
