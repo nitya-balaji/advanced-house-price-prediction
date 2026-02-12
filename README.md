@@ -30,6 +30,7 @@ house-price-prediction/
 ### 1. Exploratory Data Analysis (EDA)
 
 **File:** `eda.ipynb`
+
 Comprehensive analysis of the dataset to understand:
 - Dataset shape and structure (1,460 rows × 82 columns)
 - Distribution of numerical and categorical features
@@ -46,6 +47,7 @@ Comprehensive analysis of the dataset to understand:
 ### 2. Feature Engineering
 
 **File:** `feature_engineering.ipynb`
+
 Applied advanced preprocessing techniques to both training and test datasets:
 
 #### Missing Value Handling
@@ -74,6 +76,7 @@ Applied advanced preprocessing techniques to both training and test datasets:
 ### 3. Feature Selection
 
 **File:** `feature_selection.ipynb`
+
 Used Lasso Regression (L1 regularization) to identify the most predictive features:
 
 **Process:**
@@ -126,6 +129,7 @@ final_predictions = np.exp(log_predictions) #Reverse log transformation
 **Important:** Since SalePrice was log-transformed during feature engineering, predictions are exponentiated to return to original scale.
 
 ## Technologies Used
+
 - **Python 3.10.11**
 - **pandas** - Data manipulation and analysis
 - **numpy** - Numerical computing
