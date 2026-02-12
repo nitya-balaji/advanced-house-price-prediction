@@ -14,9 +14,9 @@ This project demonstrates a complete end-to-end Machine Learning workflow, from 
 house-price-prediction/
 │
 ├── eda.ipynb                          # Exploratory Data Analysis
-├── feature_engineering.ipynb          # Data preprocessing and feature engineering
-├── feature_selection.ipynb            # Feature selection using Lasso
-├── house_prices_prediction.ipynb      # Model training and predictions
+├── feature engineering.ipynb          # Data preprocessing and feature engineering
+├── feature selection.ipynb            # Feature selection using Lasso
+├── house prices prediction.ipynb      # Model training and predictions
 │
 ├── train.csv                          # Original training dataset
 ├── test.csv                           # Original test dataset
@@ -46,7 +46,7 @@ Comprehensive analysis of the dataset to understand:
 
 ### 2. Feature Engineering
 
-**File:** `feature_engineering.ipynb`
+**File:** `feature engineering.ipynb`
 
 Applied advanced preprocessing techniques to both training and test datasets:
 
@@ -75,7 +75,7 @@ Applied advanced preprocessing techniques to both training and test datasets:
 
 ### 3. Feature Selection
 
-**File:** `feature_selection.ipynb`
+**File:** `feature selection.ipynb`
 
 Used Lasso Regression (L1 regularization) to identify the most predictive features:
 
@@ -108,7 +108,7 @@ Used Lasso Regression (L1 regularization) to identify the most predictive featur
 21. SaleCondition
 
 ### 4. Model Training & Prediction
-**File:** `house_prices_prediction.ipynb`
+**File:** `house prices prediction.ipynb`
 
 #### Model: Random Forest Regressor
 - **Algorithm:** Ensemble of 100 decision trees
@@ -144,8 +144,8 @@ final_predictions = np.exp(log_predictions) #Reverse log transformation
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/house-price-prediction.git
-cd house-price-prediction
+git clone https://github.com/nitya-balaji/advanced-house-price-prediction.git
+cd advanced-house-price-prediction
 ```
 
 2. Install required packages:
