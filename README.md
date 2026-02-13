@@ -177,5 +177,5 @@ jupyter notebook house prices prediction.ipynb
 After running all notebooks, `submission.csv` will contain the final predictions ready for submission.
 
 ## Acknowledgments
-**Dataset:** This project uses the **Ames Housing Dataset** from the Kaggle competition: [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
+**Dataset:** This project uses the **Ames Housing Dataset** from Kaggle ([House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data))
 - **Kaggle Competition Score:** 0.29926 (RMSE) - A solid baseline demonstrating a functional end-to-end pipeline. Future improvements such as experimenting with different ML algorithms and advanced feature engineering could further reduce the RMSE score.
