@@ -111,6 +111,7 @@ Used Lasso Regression (L1 regularization) to identify the most predictive featur
 **File:** `house prices prediction.ipynb`
 
 #### Model: Random Forest Regressor
+- Random Forest is an ensemble learning method that combines predictions from multiple decision trees to produce more accurate and stable results, making it well-suited for regression tasks with complex feature interactions like house price prediction
 - **Algorithm:** Ensemble of 100 decision trees
 - **Random State:** 42 (for reproducibility)
 
